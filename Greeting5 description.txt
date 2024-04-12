@@ -1,0 +1,11 @@
+Greeting5.h5
+Greeting5.keras    contain a model of the following words with 10 videos for each word and 10 frames for each videos
+
+የ ምልክት ቆንቆ
+ታውቃለህ
+ትችላለህ
+ሰላም
+አደርክ  
+ዋልክ
+አመሸህ
+
