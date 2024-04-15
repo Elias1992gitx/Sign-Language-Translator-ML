@@ -1,0 +1,34 @@
+Health1.h5
+Health1.keras  contain a model of the following words with 10 videos for each word and 10 frames for each videos
+
+
+ሆስፒታል
+ሃኪም
+ሀኪም
+ምርመራ
+ትኩሳት
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ጉንፋን
+መውጋት
+የሚጥል በሽታ
+አምቡላንስ
+
+ልደት/birth
+
