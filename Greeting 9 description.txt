@@ -1,0 +1,8 @@
+Greeting6.h5
+Greeting6.keras  contain a model of the following words with 10 videos for each word and 10 frames for each videos
+
+እንተዋወቅ
+ስምህ ማነው  
+አመሰግናለሁ
+ይቅርታ
+ደህና ሁን

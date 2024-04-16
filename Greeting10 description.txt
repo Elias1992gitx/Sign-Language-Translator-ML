@@ -1,0 +1,11 @@
+Greeting10.h5
+Greeting10.keras  contain a model of the following words with 10 videos for each word and 10 frames for each videos
+
+
+(['_',
+'ሰላም',
+'አደርክ',
+'ዋልክ',
+'አመሸህ',
+'እግዚአብሂር',
+'ይመስገን'])
